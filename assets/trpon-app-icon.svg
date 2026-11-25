@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1254 1254" role="img" aria-labelledby="title desc">
+  <title id="title">Trpon Onward — Booking Purple</title>
+  <desc id="desc">A ivory loop sweeps into a apricot arrow on a booking purple background.</desc>
+  <rect id="field" width="1254" height="1254" fill="#830DE4"/>
+  <path id="sweeping-ring" fill="#FFF9EF" d="
+    M 921 666
+    C 922 651 923 635 922 618
+    C 919 428 773 278 583 278
+    C 387 278 225 436 225 628
+    C 225 817 383 968 562 968
+    C 680 968 760 914 835 827
+    C 875 781 914 756 963 740
+    L 968 704
+    C 846 724 764 762 680 799
+    C 633 820 600 829 563 829
+    C 453 829 366 739 366 629
+    C 366 510 457 414 577 414
+    C 696 414 782 506 782 627
+    C 782 662 776 693 763 722
+    Z"/>
+  <path id="arrowhead" fill="#FFA263" d="
+    M 947 666 L 1086 701 L 935 791
+    C 954 761 963 736 962 710
+    C 962 691 956 677 947 666 Z"/>
+</svg>
